@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @odagagillian
-- 👀 I’m interested in baking and art.
+- 👀 I’m interested in baking and art and problem solving tasks.
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software design
 - 📫 My email odagagillian@gmail.com
