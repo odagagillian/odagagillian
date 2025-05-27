@@ -1,5 +1,7 @@
- I’m @odagagillian
-web development,c++, JavaScript,html,backend designer 
+ I’m odagagillian
+software engineering student at zetech university.
+c++, JavaScript,html,
+passionate about web development 
  email odagagillian@gmail.com
 
 <!---
