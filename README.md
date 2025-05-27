@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @odagagillian
-- 👀 I’m interested in baking and art and problem solving tasks.
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on software design
-- 📫 My email odagagillian@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm pretty flexible and actually funny
+ I’m @odagagillian
+web development,c++, JavaScript,html,backend designer 
+ email odagagillian@gmail.com
 
 <!---
 odagagillian/odagagillian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
