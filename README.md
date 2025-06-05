@@ -1,4 +1,4 @@
- I’m odagagillian
+ odaga gillian
 software engineering student at zetech university.
 c++, JavaScript,html,
 passionate about web development 
