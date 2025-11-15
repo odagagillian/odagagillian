@@ -1,6 +1,6 @@
  odaga gillian
 software engineering student at zetech university.
-c++, JavaScript,html,
+php, mysql databases,JavaScript,html,
 passionate about web development 
  email odagagillian@gmail.com
 
